@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Universal-Script/OverDrive--H/refs/heads/main/Premium"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SecretGameSs/SmallGameSs/refs/heads/main/.io"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
